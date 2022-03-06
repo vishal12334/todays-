@@ -1,2 +1,3 @@
 new day 
 monday
+sunday
